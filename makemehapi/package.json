@@ -1,0 +1,23 @@
+{
+  "name": "makemehapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Eby",
+  "license": "ISC",
+  "dependencies": {
+    "boom": "^7.2.0",
+    "h2o2": "^8.0.1",
+    "handlebars": "^4.0.11",
+    "npm": "^5.8.0",
+    "rot13-transform": "^1.0.0",
+    "vision": "^5.3.2"
+  },
+  "devDependencies": {
+    "hapi": "^17.2.3",
+    "inert": "^5.1.0"
+  }
+}
